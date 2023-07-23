@@ -1,0 +1,3 @@
+So, welcome back, aliens! This is not going to be about extraterrestrial encounters. In this video, we will talk about Hibernate. Now, think about this world. We are living in a world of information, or you can call it as data, right? So, when you talk about this data and when you talk about this software world, we always talk about languages. We have C++, we have Java, we also have .NET. We have a concept of everything being an object. That means if you want to make a software, you have to think about objects, right?
+
+So, it is with the concept of which is in Hibernate's abstraction. Then, we have polymorphism. So, we talked about all these concepts.
